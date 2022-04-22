@@ -1,0 +1,38 @@
+*{
+
+}
+
+
+
+
+
+
+
+
+
+.carl {
+      display: inline;
+      height: 300px;
+      width: 200px;
+      background-color: rgb(19, 202, 19);
+      position: sticky;
+      left: 30%;
+      
+}
+
+
+
+
+.bob {
+      display: inline;
+      height: 200px;
+      width: 200px;
+      background-color: aqua;
+      position: absolute;
+      bottom: 10px;
+}
+
+
+
+
+

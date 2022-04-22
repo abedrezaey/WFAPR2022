@@ -1,0 +1,18 @@
+
+
+
+*{
+      height: 300px;
+
+}
+
+
+.container{
+      height: 500px;
+      border: 20px solid salmon;
+      display: flex;
+      justify-content: space-between;
+}
+
+
+

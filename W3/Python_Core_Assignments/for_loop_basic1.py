@@ -1,5 +1,3 @@
-from itertools import count
-import math
 
 # Basic - Print all integers from 0 to 150.
 n=int(1)

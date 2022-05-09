@@ -23,6 +23,9 @@ def change_salary(self, percent_increase):
             self.salary = new_salary
 
 
+            
+
+
 employee_1 = Employee("Alex", "Smith", 82000)
 employee_2 = Employee("Bradley", "Jones", 79000)
 employee_3 = Employee("Charlie", "Adams", 65000)
